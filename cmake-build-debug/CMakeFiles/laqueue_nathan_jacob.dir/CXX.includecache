@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/PQueue.h
+
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/lqueue.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+mutex
+-
+lqueue.h
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/lqueue.h
+PQueue.h
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/PQueue.h
+
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/lqueue.h
+sys/types.h
+-
+siginfo.h
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/siginfo.h
+sys/fcntl.h
+-
+
+/Users/nathanjacob/Downloads/laqueue-nathan-jacob/siginfo.h
+sys/time.h
+-
+
